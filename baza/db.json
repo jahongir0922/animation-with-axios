@@ -1,0 +1,24 @@
+{
+  "toDos": [
+    {
+      "do": "Bu malumotlarni ustiga bossangiz o'chib ketadi",
+      "id": 1
+    },
+    {
+      "do": "bir ",
+      "id": 2
+    },
+    {
+      "do": "ikki",
+      "id": 3
+    },
+    {
+      "do": "uch",
+      "id": 4
+    },
+    {
+      "do": "tort",
+      "id": 5
+    }
+  ]
+}
